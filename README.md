@@ -79,22 +79,22 @@ Este projeto representa meu primeiro contato prático com a construção de um j
 
 Apresentação inicial do jogo antes do começo da partida.
 
-![Tela inicial do jogo](imagens/InicioDeJogo.png)
+![Tela inicial do jogo](Imagens/InicioDeJogo.png)
 
 ### Tabuleiro do jogador
 
 Visualização do tabuleiro do jogador antes das jogadas, com as posições ainda sem marcações.
 
-![Tabuleiro do jogador limpo](imagens/TabuleiroJogadorLimpo.png)
+![Tabuleiro do jogador limpo](Imagens/TabuleiroJogadorLimpo.png)
 
 ### Execução da partida
 
 Exemplo do jogo durante a partida, mostrando as jogadas realizadas.
 
-![Execução da partida](imagens/Execucao-da-Partida.png)
+![Execução da partida](Imagens/Execucao-da-Partida.png)
 
 ### Jogo encerrado
 
 Registro da tela apresentada ao término da partida.
 
-![Jogo encerrado](imagens/JogoEncerrado.png)
+![Jogo encerrado](Imagens/JogoEncerrado.png)
